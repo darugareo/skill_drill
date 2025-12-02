@@ -1,2 +1,2 @@
-# study_with_chatgpt
+# skill drill
 my skill up project
